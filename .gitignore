@@ -1,0 +1,20 @@
+# 编译产物
+target/
+
+# 临时文件
+*.swp
+*~
+
+# 已生成的IDE和编辑器文件
+.vscode/
+.idea/
+
+# 依赖管理工具产生的文件
+Cargo.lock
+
+# 构建过程中的临时文件
+./target/
+
+# 自动生成的文档
+doc/
+target/doc/
