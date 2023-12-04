@@ -8,6 +8,7 @@ target/
 # 已生成的IDE和编辑器文件
 .vscode/
 .idea/
+.history
 
 # 依赖管理工具产生的文件
 Cargo.lock
